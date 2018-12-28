@@ -1,3 +1,3 @@
 # Labs
 
-#Sarukhanyan Genrikh
+Sarukhanyan Genrikh
